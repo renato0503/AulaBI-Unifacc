@@ -1,0 +1,33 @@
+ID_Item;Descricao;Categoria
+1;Asfalto CBUQ Camada de Rolamento - ton;Pavimentação
+2;Asfalto PMF Pré-Misturado a Frio - ton;Pavimentação
+3;Serviço de Terraplenagem e Compactação;Pavimentação
+4;Meio-Fio e Sarjeta em Concreto - m;Pavimentação
+5;Placa de Concreto para Calçada - m²;Pavimentação
+6;Blocos de Concreto Intertravados - m²;Pavimentação
+7;Sinalização Horizontal (Pintura de Faixas);Pavimentação
+8;Poste de Iluminação LED 150W;Iluminação Pública
+9;Luminária LED Pública 100W;Iluminação Pública
+10;Cabo de Energia XLPE 35mm² - m;Iluminação Pública
+11;Transformador de Distribuição 75KVA;Iluminação Pública
+12;Serviço de Instalação Elétrica;Iluminação Pública
+13;Manutenção de Rede de Iluminação;Iluminação Pública
+14;Mudas de Árvores Nativas do Cerrado;Praças e Parques
+15;Grama Batatais para Gramado - m²;Praças e Parques
+16;Equipamento de Academia ao Ar Livre;Praças e Parques
+17;Banco de Praça em Concreto;Praças e Parques
+18;Playground Infantil Completo;Praças e Parques
+19;Serviço de Paisagismo e Jardinagem;Praças e Parques
+20;Irrigação Automatizada para Praça;Praças e Parques
+21;Tubulação de Concreto Dn600 - m;Drenagem Urbana
+22;Tubulação PVC Corrugado Dn300 - m;Drenagem Urbana
+23;Boca de Lobo de Concreto;Drenagem Urbana
+24;Serviço de Limpeza de Bueiros;Drenagem Urbana
+25;Construção de Galeria de Drenagem;Drenagem Urbana
+26;Canalização e Retificação de Córrego;Drenagem Urbana
+27;Tapa-Buraco com Massa Asfáltica - ton;Conservação e Manutenção
+28;Serviço de Varrição e Limpeza de Vias;Conservação e Manutenção
+29;Poda de Árvores em Vias Públicas;Conservação e Manutenção
+30;Pintura de Meio-Fio - m;Conservação e Manutenção
+31;Reparação de Calçada Danificada - m²;Conservação e Manutenção
+32;Limpeza de Terrenos e Capina;Conservação e Manutenção

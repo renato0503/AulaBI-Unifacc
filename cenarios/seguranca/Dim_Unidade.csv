@@ -1,13 +1,12 @@
 ID_Unidade;Nome_Unidade;Tipo_Unidade;Regiao
-1;1ª Delegacia de Polícia Civil;Delegacia;Zona Norte
-2;2ª Delegacia de Polícia Civil;Delegacia;Zona Sul
-3;1º Batalhão da Polícia Militar;Batalhão PM;Centro
-4;2º Batalhão da Polícia Militar;Batalhão PM;Zona Leste
-5;Batalhão de Operações Especiais;BOPE;Centro
-6;Corpo de Bombeiros Central;Bombeiros;Centro
-7;Corpo de Bombeiros Norte;Bombeiros;Zona Norte
-8;Departamento Estadual de Trânsito;DETRAN;Centro
-9;Instituto Médico Legal;Perícia;Centro
-10;Delegacia de Proteção à Mulher;Delegacia Especializada;Zona Sul
-11;3º Batalhão da Polícia Militar;Batalhão PM;Zona Oeste
-12;Delegacia de Crimes Digitais;Delegacia Especializada;Centro
+1;1ª Delegacia de Polícia Civil;Delegacia;Centro
+2;2ª Delegacia de Polícia Civil;Delegacia;Zona Norte
+3;Batalhão de Polícia Militar - BPM;Batalhão PM;Zona Sul
+4;Companhia PM - Setor Leste;Companhia PM;Zona Leste
+5;Corpo de Bombeiros - Quartel Central;Bombeiros;Centro
+6;Delegacia Especializada de Roubos e Furtos;Delegacia;Centro
+7;Guarda Municipal - Sede;Guarda Municipal;Centro
+8;Batalhão de Choque e Operações Especiais;Batalhão PM;Zona Norte
+9;Companhia PM - Setor Sul;Companhia PM;Zona Sul
+10;Delegacia da Mulher;Delegacia;Zona Oeste
+11;Corpo de Bombeiros - Subunidade Norte;Bombeiros;Zona Norte
