@@ -1,0 +1,41 @@
+ID_Item;Descricao;Categoria
+1;Livro Didático Português 1-5 Ano;Material Didático
+2;Livro Didático Matemática 1-5 Ano;Material Didático
+3;Livro Didático Ciências 6-9 Ano;Material Didático
+4;Livro Didático História e Geografia;Material Didático
+5;Apostila de Reforço Escolar;Material Didático
+6;Caderno Universitário 200 páginas;Material Didático
+7;Lápis de Cor cx/12 unidades;Material Didático
+8;Caneta Esferográfica cx/50;Material Didático
+9;Tinta Guache cx/6 cores;Material Didático
+10;Papel Sulfite A4 cx/10 resmas;Material Didático
+11;Arroz Tipo 1 - saco 50kg;Merenda Escolar
+12;Feijão Carioca - saco 25kg;Merenda Escolar
+13;Macarrão Espaguete - cx/20 pct;Merenda Escolar
+14;Leite Integral UHT - cx/12 un;Merenda Escolar
+15;Frango Congelado - cx/12kg;Merenda Escolar
+16;Óleo de Soja - cx/12 un 900ml;Merenda Escolar
+17;Açúcar Cristal - saco 50kg;Merenda Escolar
+18;Sal Refinado - saco 25kg;Merenda Escolar
+19;Maçã Gala - cx/20kg;Merenda Escolar
+20;Biscoito Integral - cx/30 pct;Merenda Escolar
+21;Notebook Education 15pol Intel i5;Tecnologia
+22;Tablet 10pol 64GB WiFi;Tecnologia
+23;Projetor Multimídia 3000 Lumens;Tecnologia
+24;Impressora Multifuncional Laser;Tecnologia
+25;Lousa Digital Interativa 85pol;Tecnologia
+26;Câmera de Segurança IP HD;Tecnologia
+27;Roteador WiFi Dual Band;Tecnologia
+28;Nobreak 1500VA;Tecnologia
+29;Carteira Escolar Infantil;Infraestrutura
+30;Mesa do Professor com Gaveta;Infraestrutura
+31;Cadeira Estofada Secretária;Infraestrutura
+32;Armário de Aço 2 Portas;Infraestrutura
+33;Quadro-Negro 120x200cm;Infraestrutura
+34;Ventilador de Teto com Controle;Infraestrutura
+35;Bebedouro Industrial 200L;Infraestrutura
+36;Desinfetante Concentrado 5L;Limpeza
+37;Detergente Neutro cx/12 un;Limpeza
+38;Papel Higiênico cx/64 un;Limpeza
+39;Sabão em Pó 1kg cx/20 un;Limpeza
+40;Vassoura e Rodo Kit Limpeza;Limpeza

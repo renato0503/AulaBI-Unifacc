@@ -1,0 +1,46 @@
+ID_Material;Descricao;Categoria
+1;Amoxicilina 500mg Cápsula;Medicamentos
+2;Dipirona 500mg Comprimido;Medicamentos
+3;Ibuprofeno 600mg Comprimido;Medicamentos
+4;Omeprazol 20mg Cápsula;Medicamentos
+5;Metformina 850mg Comprimido;Medicamentos
+6;Cloridrato de Metoclopramida 10mg;Medicamentos
+7;Losartana Potássica 50mg Comprimido;Medicamentos
+8;Atenolol 50mg Comprimido;Medicamentos
+9;Azitromicina 500mg Comprimido;Medicamentos
+10;Prednisona 20mg Comprimido;Medicamentos
+11;Soro Fisiológico 0,9% 500ml;Medicamentos
+12;Soro Glicosado 5% 500ml;Medicamentos
+13;Insulina Regular 100UI/ml Frasco;Medicamentos
+14;Heparina Sódica 5000UI Frasco;Medicamentos
+15;Ceftriaxona 1g Frasco-Ampola IV;Medicamentos
+16;Gaze Estéril 7,5cm x 7,5cm cx/100;Gazes
+17;Gaze Estéril 10cm x 10cm cx/100;Gazes
+18;Rolo de Gaze 9cm x 91m;Gazes
+19;Atadura de Crepe 10cm x 1,8m;Gazes
+20;Atadura de Crepe 15cm x 1,8m;Gazes
+21;Compressa Cirúrgica Estéril 30x35cm;Gazes
+22;Bandagem Elástica 10cm;Gazes
+23;Fita Crepe Hospitalar 18mm;Gazes
+24;Esparadrapo 10cm x 4,5m;Gazes
+25;Curativo Adesivo Estéril;Gazes
+26;Seringa Descartável 1ml c/agulha;Seringas
+27;Seringa Descartável 3ml c/agulha;Seringas
+28;Seringa Descartável 5ml c/agulha;Seringas
+29;Seringa Descartável 10ml c/agulha;Seringas
+30;Seringa Descartável 20ml c/agulha;Seringas
+31;Agulha Hipodérmica 25x7 cx/100;Seringas
+32;Agulha Hipodérmica 30x7 cx/100;Seringas
+33;Agulha Hipodérmica 40x12 cx/100;Seringas
+34;Scalp 23G cx/100;Seringas
+35;Scalp 25G cx/100;Seringas
+36;Monitor Multiparâmetros Portátil;Equipamentos
+37;Desfibrilador Bifásico;Equipamentos
+38;Bomba de Infusão com Seringa;Equipamentos
+39;Ventilador Mecânico de Transporte;Equipamentos
+40;Oxímetro de Pulso Portátil;Equipamentos
+41;Esfigmomanômetro Aneróide;Equipamentos
+42;Estetoscópio Duplo;Equipamentos
+43;Termômetro Digital;Equipamentos
+44;Glicosímetro com Tiras Reagentes;Equipamentos
+45;Carro de Emergência (Crash Cart);Equipamentos
