@@ -146,9 +146,10 @@ def linha_mensal(df, dim_cal, titulo="Evolução Mensal dos Gastos"):
                   template="plotly_dark", color_discrete_sequence=["#4f8ef7"])
     fig.update_traces(line=dict(width=3), marker=dict(size=9, color="#f6ad55"),
                       fill="tozeroy", fillcolor="rgba(79,142,247,0.08)")
-    fig.update_layout(**PLOTLY_LAYOUT,
-                      xaxis=dict(showgrid=False),
-                      yaxis=dict(showgrid=True, gridcolor="#2d3748"), height=300)
+    layout_linha = {**PLOTLY_LAYOUT, "height": 300,
+                    "xaxis": dict(showgrid=False),
+                    "yaxis": dict(showgrid=True, gridcolor="#2d3748")}
+    fig.update_layout(**layout_linha)
     return fig
 
 

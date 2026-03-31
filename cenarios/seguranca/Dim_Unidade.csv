@@ -1,0 +1,13 @@
+ID_Unidade;Nome_Unidade;Tipo_Unidade;Regiao
+1;1ª Delegacia de Polícia Civil;Delegacia;Zona Norte
+2;2ª Delegacia de Polícia Civil;Delegacia;Zona Sul
+3;1º Batalhão da Polícia Militar;Batalhão PM;Centro
+4;2º Batalhão da Polícia Militar;Batalhão PM;Zona Leste
+5;Batalhão de Operações Especiais;BOPE;Centro
+6;Corpo de Bombeiros Central;Bombeiros;Centro
+7;Corpo de Bombeiros Norte;Bombeiros;Zona Norte
+8;Departamento Estadual de Trânsito;DETRAN;Centro
+9;Instituto Médico Legal;Perícia;Centro
+10;Delegacia de Proteção à Mulher;Delegacia Especializada;Zona Sul
+11;3º Batalhão da Polícia Militar;Batalhão PM;Zona Oeste
+12;Delegacia de Crimes Digitais;Delegacia Especializada;Centro

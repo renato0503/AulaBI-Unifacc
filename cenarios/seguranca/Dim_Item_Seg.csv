@@ -1,0 +1,36 @@
+ID_Item;Descricao;Categoria
+1;Pistola Semi-Automática Calibre 9mm;Armamento
+2;Espingarda Calibre 12 Pump;Armamento
+3;Colete Balístico Nível IIIA;Armamento
+4;Algemas de Aço Duplo Elo cx/10;Armamento
+5;Escudo Balístico Portátil;Armamento
+6;Spray de Pimenta OC 100ml;Armamento
+7;Tonfa Policial em Polipropileno;Armamento
+8;Viatura Policial Ford Ranger 4x4;Viaturas
+9;Moto Patrulha Honda CB 500F;Viaturas
+10;Caminhão Guincho Plataforma;Viaturas
+11;Van de Transporte de Custodiados;Viaturas
+12;Veículo Blindado Leve Tipo A;Viaturas
+13;Barco de Patrulha Fluvial;Viaturas
+14;Capacete Tático com Visor Balistico;EPI
+15;Bota Coturno Policial cano longo;EPI
+16;Luva Antifogo Kevlar;EPI
+17;Máscara Respiratória CBRN;EPI
+18;Óculos de Proteção Tático;EPI
+19;Joelheira e Cotoveleira Tática;EPI
+20;Uniforme Operacional Completo;EPI
+21;Câmera Corporal Body Cam Full HD;Tecnologia
+22;Drone de Vigilância com Câmera IR;Tecnologia
+23;Sistema de Rastreamento Veicular;Tecnologia
+24;Rádio Comunicador Digital Criptografado;Tecnologia
+25;Sistema CFTV 32 Câmeras IP;Tecnologia
+26;Baliza Eletrônica de Trânsito;Tecnologia
+27;Notebook Tático Semi-rugged;Tecnologia
+28;Software de Gestão de Ocorrências;Tecnologia
+29;Munição Calibre 9mm cx/1000;Munição e Suprimentos
+30;Munição Calibre 12 cx/500;Munição e Suprimentos
+31;Combustível Diesel - 1000L;Munição e Suprimentos
+32;Combustível Gasolina - 1000L;Munição e Suprimentos
+33;Kit de Primeiros Socorros Tático;Munição e Suprimentos
+34;Extintor de Incêndio PQS 12kg;Munição e Suprimentos
+35;Material de Higiene e Conservação;Munição e Suprimentos
