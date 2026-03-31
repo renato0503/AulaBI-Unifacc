@@ -1,0 +1,13 @@
+ID_Fornecedor;CNPJ;Razao_Social;Cidade
+1;12.345.678/0001-90;Farmacêutica Saúde Total Ltda;São Paulo
+2;23.456.789/0001-01;MedSupply Distribuidora S.A.;Rio de Janeiro
+3;34.567.890/0001-12;Cirúrgica Nacional Comércio Ltda;Belo Horizonte
+4;45.678.901/0001-23;HospitalFarma Distribuidora Ltda;Curitiba
+5;56.789.012/0001-34;EquipMed Soluções Hospitalares S.A.;Porto Alegre
+6;67.890.123/0001-45;Distribuidora Saúde & Vida Ltda;Salvador
+7;78.901.234/0001-56;TechMed Equipamentos Médicos S.A.;Fortaleza
+8;89.012.345/0001-67;Insumos Hospitalares do Centro Ltda;Goiânia
+9;90.123.456/0001-78;Pharma Express Distribuidora Ltda;Recife
+10;01.234.567/0001-89;MedPlus Comércio de Produtos Médicos Ltda;Manaus
+11;11.222.333/0001-11;Cirúrgica do Norte S.A.;Belém
+12;22.333.444/0001-22;Almoxarifado Saúde Distribuidora Ltda;Natal
